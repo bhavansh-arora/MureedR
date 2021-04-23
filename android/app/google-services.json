@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721791115190",
+    "project_id": "mureedr-5bd57",
+    "storage_bucket": "mureedr-5bd57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721791115190:android:2167446c66702309432b17",
+        "android_client_info": {
+          "package_name": "com.mureedr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721791115190-6l7fo9c9libd1no6adberg1o8pj9oacn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mureedr",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "721791115190-66n3athc8qntbi55u34djupvhilv6e66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuH1wn9JMTkdPAA3d2T23FF0eWwuLmUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721791115190-66n3athc8qntbi55u34djupvhilv6e66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
